@@ -1,0 +1,8 @@
+Library/
+library/
+Logs/
+logs/
+obj/
+Packages/
+*.meta
+*.csproj
