@@ -3,5 +3,6 @@ library/
 Logs/
 logs/
 obj/
+Temp/
 Packages/
 *.csproj

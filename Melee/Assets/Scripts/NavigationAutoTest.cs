@@ -10,6 +10,7 @@ public class NavigationAutoTest : MonoBehaviour
     {
         if (targetObj != null)
         {
+            //test.test
             GetComponent<UnityEngine.AI.NavMeshAgent>().destination = targetObj.position;
         }
     }
